@@ -9,6 +9,8 @@ The quarentine system is similar to the one ESET uses.
 
 # NOTE 
 # !! YOU MUST APPLY FOR YOUR OWN VIRUSTOTAL API KEY.
-TO ACCESS YOUR FREE VIRUSTOTAL API KEY YOU MUST CREATE AN ACCOUNT ON THEIR WEBSITE LINKED BELOW:
+To access your free VirusTotal API Key you must creata an account on their website linked below: 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 https://www.virustotal.com/gui/my-apikey
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 IF WANTED YOU CAN PURCHASE A PREMIUM KEY FROM THEIR WEBSITE WHICH WILL ALLOW FOR MORE INTENSIVE MAL SCANS.
