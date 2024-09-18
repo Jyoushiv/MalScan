@@ -13,4 +13,4 @@ To access your free VirusTotal API Key you must creata an account on their websi
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 https://www.virustotal.com/gui/my-apikey
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-IF WANTED YOU CAN PURCHASE A PREMIUM KEY FROM THEIR WEBSITE WHICH WILL ALLOW FOR MORE INTENSIVE MAL SCANS.
+If wanted you can purchase a premium API Key from their website for more intensive malware scans.
